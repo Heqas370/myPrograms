@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Gauges.qml</file>
+        <file>Dashboard_Gauge_Style.qml</file>
+        <file>Plots.qml</file>
+        <file>Images/dialogBackground.jpg</file>
+        <file>engineTemp.qml</file>
+        <file>Images/pojazdy.jpg</file>
+        <file>engineTempTable.qml</file>
+        <file>inverterTemp.qml</file>
+        <file>batteryTemp.qml</file>
+        <file>powerConsumption.qml</file>
+    </qresource>
+</RCC>
