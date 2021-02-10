@@ -1,0 +1,10 @@
+﻿  CsvFile.cpp
+D:\Programowanie Obiektowe(semestr 2) Visual Studio\Przetwarzanie Plików(ćw 4 i 5)\Przetwarzanie Plików(ćw 4 i 5)\CsvFile.cpp(35,22): warning C4244: "inicjowanie": konwersja z "std::streamoff" do "unsigned long", możliwa utrata danych
+D:\Programowanie Obiektowe(semestr 2) Visual Studio\Przetwarzanie Plików(ćw 4 i 5)\Przetwarzanie Plików(ćw 4 i 5)\CsvFile.cpp(40,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Programowanie Obiektowe(semestr 2) Visual Studio\Przetwarzanie Plików(ćw 4 i 5)\Przetwarzanie Plików(ćw 4 i 5)\CsvFile.cpp(45,26): warning C4244: "=": konwersja z "std::streamoff" do "unsigned long", możliwa utrata danych
+D:\Programowanie Obiektowe(semestr 2) Visual Studio\Przetwarzanie Plików(ćw 4 i 5)\Przetwarzanie Plików(ćw 4 i 5)\CsvFile.cpp(93,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Programowanie Obiektowe(semestr 2) Visual Studio\Przetwarzanie Plików(ćw 4 i 5)\Przetwarzanie Plików(ćw 4 i 5)\CsvFile.cpp(101,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Main.cpp
+  Generowanie kodu...
+D:\Programowanie Obiektowe(semestr 2) Visual Studio\Przetwarzanie Plików(ćw 4 i 5)\Przetwarzanie Plików(ćw 4 i 5)\CsvFile.cpp(115): warning C4715: "CsvFile::Read”: niewszystkie ścieżki kodu zwracają wartość
+  Przetwarzanie Plików(ćw 4 i 5).vcxproj -> D:\Programowanie Obiektowe(semestr 2) Visual Studio\Przetwarzanie Plików(ćw 4 i 5)\Debug\Przetwarzanie Plików(ćw 4 i 5).exe
