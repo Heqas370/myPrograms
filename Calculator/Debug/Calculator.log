@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Programowanie Obiektowe(semestr 2) Visual Studio\Calculator\Calculator\main.cpp(8,40): error C2664: „Calculator::Error Calculator::square_function_roots(double,double,double,double &,double &)”: nie można dokonać konwersji argumentu 4 z „int” do „double &”
+D:\Programowanie Obiektowe(semestr 2) Visual Studio\Calculator\Calculator\Calculator.h(26,11): message : zobacz deklarację „Calculator::square_function_roots”
